@@ -45,5 +45,5 @@ This script is for educational purposes only.
 Please leave a ⭐ if u like it!
 
 ---
-Made with ❤️ by Mero](https://github.com/12neli12)
+Made with ❤️ by Mero (https://github.com/12neli12)
 
