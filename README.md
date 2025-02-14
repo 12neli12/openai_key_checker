@@ -10,7 +10,7 @@ What this py script does:
 
 ```
 
-## 🚀 Installation
+## Installation
 
 1. Clone rep:
    ```sh
@@ -42,7 +42,7 @@ requests
 ## ⚠️ Disclaimer
 This script is for educational purposes only.
 
-## Please leave a ⭐ if u like it!
+Please leave a ⭐ if u like it!
 
 ---
 Made with ❤️ by Mero](https://github.com/12neli12)
